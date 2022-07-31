@@ -1,0 +1,15 @@
+C:\Users\habib\Desktop\New folder\Test_11_18\GeekBrains_Test\GeekBrains_Test\bin\Debug\net6.0\GeekBrains_Test.exe
+C:\Users\habib\Desktop\New folder\Test_11_18\GeekBrains_Test\GeekBrains_Test\bin\Debug\net6.0\GeekBrains_Test.deps.json
+C:\Users\habib\Desktop\New folder\Test_11_18\GeekBrains_Test\GeekBrains_Test\bin\Debug\net6.0\GeekBrains_Test.runtimeconfig.json
+C:\Users\habib\Desktop\New folder\Test_11_18\GeekBrains_Test\GeekBrains_Test\bin\Debug\net6.0\GeekBrains_Test.dll
+C:\Users\habib\Desktop\New folder\Test_11_18\GeekBrains_Test\GeekBrains_Test\bin\Debug\net6.0\GeekBrains_Test.pdb
+C:\Users\habib\Desktop\New folder\Test_11_18\GeekBrains_Test\GeekBrains_Test\obj\Debug\net6.0\GeekBrains_Test.csproj.AssemblyReference.cache
+C:\Users\habib\Desktop\New folder\Test_11_18\GeekBrains_Test\GeekBrains_Test\obj\Debug\net6.0\GeekBrains_Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\habib\Desktop\New folder\Test_11_18\GeekBrains_Test\GeekBrains_Test\obj\Debug\net6.0\GeekBrains_Test.AssemblyInfoInputs.cache
+C:\Users\habib\Desktop\New folder\Test_11_18\GeekBrains_Test\GeekBrains_Test\obj\Debug\net6.0\GeekBrains_Test.AssemblyInfo.cs
+C:\Users\habib\Desktop\New folder\Test_11_18\GeekBrains_Test\GeekBrains_Test\obj\Debug\net6.0\GeekBrains_Test.csproj.CoreCompileInputs.cache
+C:\Users\habib\Desktop\New folder\Test_11_18\GeekBrains_Test\GeekBrains_Test\obj\Debug\net6.0\GeekBrains_Test.dll
+C:\Users\habib\Desktop\New folder\Test_11_18\GeekBrains_Test\GeekBrains_Test\obj\Debug\net6.0\refint\GeekBrains_Test.dll
+C:\Users\habib\Desktop\New folder\Test_11_18\GeekBrains_Test\GeekBrains_Test\obj\Debug\net6.0\GeekBrains_Test.pdb
+C:\Users\habib\Desktop\New folder\Test_11_18\GeekBrains_Test\GeekBrains_Test\obj\Debug\net6.0\GeekBrains_Test.genruntimeconfig.cache
+C:\Users\habib\Desktop\New folder\Test_11_18\GeekBrains_Test\GeekBrains_Test\obj\Debug\net6.0\ref\GeekBrains_Test.dll

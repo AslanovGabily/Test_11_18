@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32714.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeekBrains_Test", "GeekBrains_Test\GeekBrains_Test.csproj", "{523BE13D-135D-4830-B537-F19479E70F26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeekBrains_Test_NUnit", "GeekBrains_Test_NUnit\GeekBrains_Test_NUnit.csproj", "{B2AD90D2-03BF-4B31-8EE3-8378687BF687}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{523BE13D-135D-4830-B537-F19479E70F26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{523BE13D-135D-4830-B537-F19479E70F26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{523BE13D-135D-4830-B537-F19479E70F26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{523BE13D-135D-4830-B537-F19479E70F26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2AD90D2-03BF-4B31-8EE3-8378687BF687}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2AD90D2-03BF-4B31-8EE3-8378687BF687}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2AD90D2-03BF-4B31-8EE3-8378687BF687}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2AD90D2-03BF-4B31-8EE3-8378687BF687}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B12B997B-41E2-4C08-AC62-188685D65E56}
+	EndGlobalSection
+EndGlobal
